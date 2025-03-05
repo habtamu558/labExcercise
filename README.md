@@ -1,5 +1,7 @@
 # labExcercise
 
+## 📋 Tasks
+
 TASK 1 – PRIMITIVE TYPES QUIZ 🧠💡
 
 HOW MUCH DO YOU WEIGHT ON MARS? 🌌🪐
