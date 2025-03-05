@@ -19,3 +19,6 @@ TASK 5 - HOW NOT TO CALCULATE THE TAX IN JAVA LANGUAGE 💸🚫
 
 * GitHub 
 
+# To run the project
+
+### https://github.com/habtamu558/labExcercise
